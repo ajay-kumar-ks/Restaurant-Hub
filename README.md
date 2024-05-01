@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# A Hub of Restaurant baised on React App 
+
+
+The Code is only for fontend That is made up on React and Mui elements . This is a Starting Phase of the Project , now app facing many issues and i would like to do future enhancement on this project . the back end id made up on spring boot (java) it will be upload nearly in another repository . This app is working with apis .
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
