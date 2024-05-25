@@ -1,0 +1,16 @@
+#alert {
+    margin-top: 0px;
+    animation-name: example;
+    animation-duration: .6s;
+    animation-fill-mode: forwards; /* Retains styles after animation completes */
+  }
+  
+  @keyframes example {
+    from {
+      margin-top: 0px;
+    }
+    to {
+      margin-top: 80px;
+    }
+  }
+  
